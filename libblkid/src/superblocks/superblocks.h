@@ -100,6 +100,7 @@ extern const struct blkid_idinfo apfs_idinfo;
 extern const struct blkid_idinfo zonefs_idinfo;
 extern const struct blkid_idinfo erofs_idinfo;
 extern const struct blkid_idinfo cs_fvault2_idinfo;
+extern const struct blkid_idinfo dm_zoned_idinfo;
 
 /*
  * superblock functions

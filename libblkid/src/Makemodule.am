@@ -53,6 +53,7 @@ libblkid_la_SOURCES = \
 	libblkid/src/superblocks/cs_fvault2.c \
 	libblkid/src/superblocks/cramfs.c \
 	libblkid/src/superblocks/ddf_raid.c \
+	libblkid/src/superblocks/dmz.c \
 	libblkid/src/superblocks/drbd.c \
 	libblkid/src/superblocks/drbdproxy_datalog.c \
 	libblkid/src/superblocks/drbdmanage.c \

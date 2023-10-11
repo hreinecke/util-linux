@@ -126,6 +126,7 @@ static const struct blkid_idinfo *idinfos[] =
 	&stratis_idinfo,
 	&bitlocker_idinfo,
 	&cs_fvault2_idinfo,
+	&dm_zoned_idinfo,
 
 	/* Filesystems */
 	&vfat_idinfo,
